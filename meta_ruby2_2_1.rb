@@ -9,7 +9,6 @@ obj = Myclass.new
 p obj.my_method(3)
 p obj.send(:my_method, 3)
 
-
 #ソースコード試し書き
 
 #DSというデータベースに接続すクラスを持ち
@@ -54,6 +53,3 @@ end
 
 my_computer = Computer.new(42, DS.new)
 my_computer.cpu
-
-
-

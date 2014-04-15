@@ -16,7 +16,6 @@ p BasicObject.superclass
 p Class.superclass
 p Module.superclass
 
-
 class Myclass
 end
 

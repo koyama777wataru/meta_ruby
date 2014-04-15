@@ -36,4 +36,3 @@ class ReplaceTest2 < Test::Unit::TestCase
 end
 
 p [].methods.grep /^re/
-

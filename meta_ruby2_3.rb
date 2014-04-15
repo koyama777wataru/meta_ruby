@@ -21,4 +21,3 @@ class Lawyer
     #ブロック
   end
 end
-
